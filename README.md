@@ -43,7 +43,7 @@ _Please refrain from forking or using 'upnxt-assignment-cloud' as a name._
 You can make a copy of the repository with the following commands:
 
 ```
-npx degit inthepocket/upnxt-assignment-cloud assignment
+npx degit inthepocket/upnxt-assignment-cloud#main assignment
 cd assignment
 git init
 git add .
